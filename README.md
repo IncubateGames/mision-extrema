@@ -1,10 +1,8 @@
 # Mision Extrema
 GAME DESIGN DOCUMENT
 
-https://oskit-producciones.github.io/mision-extrema/
-
 ## Motor de juedo
-Godot engine
+Unreal Engine 5
 
 ## Genero
 2D TopDown Shooter
@@ -89,17 +87,10 @@ Es un video juego del género Top-Down el cual utilizara como base el sigilo, es
 *	Es un top-down en el cual se debe utilizar la estrategia y el sigilo. Pasar un nivel ni significa matar a todos los enemigos
 
 ## Hardware Objetivo
-PC (Windows, Linux) Low end y Android
+PC Windows 
 
 ## Plan de Distribución y Comercialización
-Se plane distribuir en modo gratuito la version reducida en las siguientes plataformas:
-
-Android: Play Store
-PC: Itch.io y Steam
+Se plane distribuir en modo gratuito la version reducida en las siguientes plataformas Epic Store
 
 ## Historia
-“Tu nombre es secreto pero tu alias es conocido como Agente X. Perteneces al servicio de inteligencia en la división de casos Extremos, dicha división se ocupa de resolver problemas muy complejos.”
-
-“El embajador de Inglaterra ha desaparecido, un informante nos ha dicho que fue visto por ultima vez en la zona de la rivera del riachuelo en Avellaneda, provincia de Buenos Aires. Dicha zona posee viejas fabricas abandonadas y sospechamos que un grupo sin identificar lo ha tomado como rehén. Si esta información cobra estado publico puede que entremos en guerra con Inglaterra. Esta información es clasificada”
-
-“Tu misión Agente X, es encontrar al embajador sano y salvo”
+TBD
