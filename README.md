@@ -1,8 +1,9 @@
+#Proyecto cancelado parcialmente. Se migra a motor Unreal Engine 5
 # Mision Extrema
 GAME DESIGN DOCUMENT
 
-## Motor de juedo
-Unreal Engine 5
+## Motor
+Godot
 
 ## Genero
 2D TopDown Shooter
